@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Offline Map</string>
+    <string name="open_local_map">Open Local Map</string>
+</resources>
